@@ -1,6 +1,9 @@
 **Developed by: Yasir Ali**
+
 **Email:** yasiralibscssaif25@iba-suk.edu.pk
+
 **Phone:** 0328-3028969
+
 **passionate about:**
 
 Software Development
